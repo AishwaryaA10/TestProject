@@ -1,0 +1,50 @@
+1. Home page Notebook count
+2. timezone
+3. SAS save doesnt happen on first time
+4. Bug application shows deployed
+5. image instalation of docker image should have status
+6. unwanted parameters from cm should be removed
+7. Remove automl client from dockerfile
+8. size have to be reduced for images
+9. Have common base images based on version
+"10. model.pkl and scoring_func.pkl] or pmml file(s) missing"""
+11. Register model filing in R but model is visible in model section
+12. pyyaml package required to run R register model
+13.sasstudio causes issue in listing
+14. publish works after entering more than 4 characters
+15. schedule & Monitor screen takes time to load
+16. cannot find factory for node of type: [NOTEBOOK] for hybrid
+17.tab icon is showing azkaban icon
+18. Zeppelin slowness in opening
+19. notebook and git foldr going into data on spawning SAS studio
+20. Mysql connector in serving trying to get installed using pypi - Amit has fixed commit is pending 21 day 0 data comment ai backend17:12
+21. progress url shows progress in lag
+23. File openingtaking time in jupyter
+24. Add in user guide zeppelin requires medium resource minimum17:12
+
+SAS studio while spawning copies git and notebooks folder in data mount = AL-2673
+.sasstudio folder created on sas spawning causes listing of files to show less files than in actual git = AL-2675
+Save not working in SAS studio for first time = AL-2676
+In AI Homepage Count of Notebooks is not correct = AL-2681
+Application Deployment shows deployed status irrespective of actual status = AL-2682
+Add provision to enable/disable the prebuilt images of Base templates of NB and model = AL-2683
+Remove unwanted or unused parameters from Configmap= AL-2684
+Remove unused things from Dockerfile = AL-2685
+Reduce overall image size = AL-2686
+Have common base images across all services based on version in Dockerfile = AL-2687
+"Even if Register model fails in R, model is visible in model section = AL-2688"
+RStudio image requires additional packages to start like pyyaml it should be part of base image = AL-2689
+NB scheduled can only be published after entering more than 4 characters till then button is not accessible = Decisions team
+schedule & Monitor screen takes time to load in UI need to install cache = Decisions team
+while running a hybrid schedule with 2 NB(1 python & 1 R Nb) it gives error cannot find factory for node of type: [NOTEBOOK] = Decisions team
+when we open landing page in scb it shows Azkaban icon in tabs of broswer = AL-2690
+When zeppelin NB spawns progress is 100% but in ui it gives 502 . After 2 min it opens up in SCB = AL-2691
+"Mysql connector in serving trying to get installed using pypi - = Amit has fixed,he will get it merged"
+day 0 data getting inserted after every pod restart in Ai Backend. = AL-2692
+Progress url showing results in lag. = AL-2693
+Once the NB is spawned and user clicks on a NB it takes time to show up = AL-2694
+Add in user guide zeppelin requires medium resource minimum = AL-2695
+Add requested limit of CPU/Memory in resource utilization = AL-2696
+Getting error in deployment strategy - Cannot read property 'id' of null = AL-2697
+Not allowing me to update project level parameters = AL-2698
+Resource utilization for SAS container is not coming in SCB instance = AL-2699
