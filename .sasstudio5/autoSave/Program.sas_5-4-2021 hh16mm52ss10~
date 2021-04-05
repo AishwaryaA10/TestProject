@@ -1,3 +1,5 @@
+
+
 INPUT ID $ NAME $ SALARY DEPARTMENT $;
 comm = SALARY*1.50;
 LABEL ID = 'Emp_ID' comm = 'COMMISION';
