@@ -1,0 +1,281 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  annotations:
+    deployment.kubernetes.io/revision: "1"
+  creationTimestamp: "2021-02-25T11:13:26Z"
+  generation: 1
+  labels:
+    agnitio: "false"
+    ailogistics: "false"
+    aiops: "false"
+    app: e815431d-3c2e-4f0e-a040-e1567097378e
+    catalog: "false"
+    decisions: "false"
+    lens: "false"
+    owner: ailogistics
+  managedFields:
+  - apiVersion: apps/v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:metadata:
+        f:labels:
+          .: {}
+          f:agnitio: {}
+          f:ailogistics: {}
+          f:aiops: {}
+          f:app: {}
+          f:catalog: {}
+          f:decisions: {}
+          f:lens: {}
+          f:owner: {}
+      f:spec:
+        f:progressDeadlineSeconds: {}
+        f:replicas: {}
+        f:revisionHistoryLimit: {}
+        f:selector: {}
+        f:strategy:
+          f:rollingUpdate:
+            .: {}
+            f:maxSurge: {}
+            f:maxUnavailable: {}
+          f:type: {}
+        f:template:
+          f:metadata:
+            f:labels:
+              .: {}
+              f:app: {}
+              f:version: {}
+          f:spec:
+            f:containers:
+              k:{"name":"cron"}:
+                .: {}
+                f:image: {}
+                f:imagePullPolicy: {}
+                f:name: {}
+                f:resources:
+                  .: {}
+                  f:limits:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                  f:requests:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                f:terminationMessagePath: {}
+                f:terminationMessagePolicy: {}
+              k:{"name":"model"}:
+                .: {}
+                f:image: {}
+                f:imagePullPolicy: {}
+                f:name: {}
+                f:ports:
+                  .: {}
+                  k:{"containerPort":3838,"protocol":"TCP"}:
+                    .: {}
+                    f:containerPort: {}
+                    f:protocol: {}
+                f:resources:
+                  .: {}
+                  f:limits:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                  f:requests:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                f:terminationMessagePath: {}
+                f:terminationMessagePolicy: {}
+                f:volumeMounts:
+                  .: {}
+                  k:{"mountPath":"/srv/shiny-server/sampleshinny/e815431d-3c2e-4f0e-a040-e1567097378e"}:
+                    .: {}
+                    f:mountPath: {}
+                    f:name: {}
+            f:dnsPolicy: {}
+            f:imagePullSecrets:
+              .: {}
+              k:{"name":"gitlab"}:
+                .: {}
+                f:name: {}
+            f:initContainers:
+              .: {}
+              k:{"name":"git-init"}:
+                .: {}
+                f:command: {}
+                f:image: {}
+                f:imagePullPolicy: {}
+                f:name: {}
+                f:resources:
+                  .: {}
+                  f:limits:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                  f:requests:
+                    .: {}
+                    f:cpu: {}
+                    f:memory: {}
+                f:terminationMessagePath: {}
+                f:terminationMessagePolicy: {}
+                f:volumeMounts:
+                  .: {}
+                  k:{"mountPath":"/notebooks"}:
+                    .: {}
+                    f:mountPath: {}
+                    f:name: {}
+            f:restartPolicy: {}
+            f:schedulerName: {}
+            f:securityContext: {}
+            f:terminationGracePeriodSeconds: {}
+            f:volumes:
+              .: {}
+              k:{"name":"notebooks"}:
+                .: {}
+                f:emptyDir: {}
+                f:name: {}
+    manager: Swagger-Codegen
+    operation: Update
+    time: "2021-02-25T11:13:26Z"
+  - apiVersion: apps/v1
+    fieldsType: FieldsV1
+    fieldsV1:
+      f:metadata:
+        f:annotations:
+          .: {}
+          f:deployment.kubernetes.io/revision: {}
+      f:status:
+        f:availableReplicas: {}
+        f:conditions:
+          .: {}
+          k:{"type":"Available"}:
+            .: {}
+            f:lastTransitionTime: {}
+            f:lastUpdateTime: {}
+            f:message: {}
+            f:reason: {}
+            f:status: {}
+            f:type: {}
+          k:{"type":"Progressing"}:
+            .: {}
+            f:lastTransitionTime: {}
+            f:lastUpdateTime: {}
+            f:message: {}
+            f:reason: {}
+            f:status: {}
+            f:type: {}
+        f:observedGeneration: {}
+        f:readyReplicas: {}
+        f:replicas: {}
+        f:updatedReplicas: {}
+    manager: kube-controller-manager
+    operation: Update
+    time: "2021-02-25T11:13:32Z"
+  name: dp-63322f68-fb5a-461e-b97c-3b1188671ab0
+  namespace: default
+  resourceVersion: "506516"
+  uid: 995f212b-5eea-4374-b381-84b32d077e0b
+spec:
+  progressDeadlineSeconds: 600
+  replicas: 1
+  revisionHistoryLimit: 10
+  selector:
+    matchLabels:
+      app: e815431d-3c2e-4f0e-a040-e1567097378e
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: e815431d-3c2e-4f0e-a040-e1567097378e
+        version: 388748fa-0fda-4d05-8b98-69f21a99eb16
+    spec:
+      containers:
+      - image: dash-image:1.0.0
+        imagePullPolicy: IfNotPresent
+        name: model
+        ports:
+        - containerPort: 8050
+          protocol: TCP
+        resources:
+          limits:
+            cpu: 800m
+            memory: 500Mi
+          requests:
+            cpu: 600m
+            memory: 375Mi
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+        volumeMounts:
+        - mountPath: /srv/shiny-server/sampleshinny/e815431d-3c2e-4f0e-a040-e1567097378e
+          name: notebooks
+      - image: registry.lti-aiq.in:443/mosaic-ai-logistics/mosaic-ai-backend/cron-container:v1.1
+        imagePullPolicy: IfNotPresent
+        name: cron
+        resources:
+          limits:
+            cpu: "1"
+            memory: 1000Mi
+          requests:
+            cpu: 50m
+            memory: 50Mi
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+      dnsPolicy: ClusterFirst
+      imagePullSecrets:
+      - name: gitlab
+      initContainers:
+      - command:
+        - sh
+        - -c
+        - git clone -b master https://services-dev-user:8xP5MGdw7HNTBztfANXG@git.lti-aiq.in/services-dev-user/0e8316d9-5d02-4bf5-afaf-f8263a590b03.git
+          /git; cd /git; cp -r /git/notebooks//bloodbanks-master/* /notebooks/; cd /notebooks;chmod
+          -R 777 /notebooks;
+        image: registry.lti-aiq.in:443/mosaic-decisions-2-0/mosaic-ai-logistics/mosaic-notebooks-manager:git-latest
+        imagePullPolicy: IfNotPresent
+        name: git-init
+        resources:
+          limits:
+            cpu: "1"
+            memory: 1000Mi
+          requests:
+            cpu: 50m
+            memory: 50Mi
+        terminationMessagePath: /dev/termination-log
+        terminationMessagePolicy: File
+        volumeMounts:
+        - mountPath: /notebooks
+          name: notebooks
+      restartPolicy: Always
+      schedulerName: default-scheduler
+      securityContext: {}
+      terminationGracePeriodSeconds: 30
+      volumes:
+      - emptyDir: {}
+        name: notebooks
+status:
+  availableReplicas: 1
+  conditions:
+  - lastTransitionTime: "2021-02-25T11:13:32Z"
+    lastUpdateTime: "2021-02-25T11:13:32Z"
+    message: Deployment has minimum availability.
+    reason: MinimumReplicasAvailable
+    status: "True"
+    type: Available
+  - lastTransitionTime: "2021-02-25T11:13:26Z"
+    lastUpdateTime: "2021-02-25T11:13:32Z"
+    message: ReplicaSet "dp-63322f68-fb5a-461e-b97c-3b1188671ab0-658c75c4bf" has successfully
+      progressed.
+    reason: NewReplicaSetAvailable
+    status: "True"
+    type: Progressing
+  observedGeneration: 1
+  readyReplicas: 1
+  replicas: 1
+  updatedReplicas: 1

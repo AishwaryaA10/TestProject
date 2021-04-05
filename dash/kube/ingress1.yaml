@@ -1,0 +1,25 @@
+apiVersion: networking.k8s.io/v1
+kind: Ingress
+metadata:
+  annotations:
+    kubernetes.io/ingress.class: nginx
+  creationTimestamp: "2021-02-11T18:34:29Z"
+  generation: 1
+  name: ing-test-shiny-application
+  namespace: default
+  resourceVersion: "218259"
+  uid: 1b82a4cc-25fd-4311-8167-87fc67f6b7bf
+spec:
+  rules:
+  - host: hello-world.info
+    http:
+      paths:
+      - backend:
+          service:
+            name: svc-63322f68-fb5a-461e-b97c-3b1188671ab0
+            port:
+              number: 8050
+        path: /sampleshinny/e815431d-3c2e-4f0e-a040-e1567097378e/
+        pathType: ImplementationSpecific
+status:
+  loadBalancer: {}
