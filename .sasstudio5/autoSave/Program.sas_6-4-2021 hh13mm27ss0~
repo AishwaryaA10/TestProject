@@ -1,6 +1,6 @@
-DATA data_set_name;	
-INPUT var1,var2,var3; 
-NEW_VAR;
-LABEL;
-DATALINES;	
+DATA data_set_name;		#Give a name to the dataset
+INPUT var1,var2,var3; 		#Declare variables in the dataset.
+NEW_VAR;			         #Define new variables.
+LABEL;			      	#Give variables a label
+DATALINES;		      	#Provide data
 RUN;
