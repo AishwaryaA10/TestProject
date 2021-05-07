@@ -1,0 +1,16 @@
+2021-05-07 12:58:51,783 — app — INFO — /app/app.py - app - 
+                    delete_idle_pod_k8_resources : 315 — inside delete_idle_pod_k8_resources
+2021-05-07 12:58:59,596 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    get : 134 — health of flask service - knights-watch
+2021-05-07 12:58:59,599 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:58:59,599 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:58:59,600 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:58:59,683 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:58:59,683 — app — INFO — /app/app.py - app - 
+                    process_default : 219 — auto-commit enabled
+2021-05-07 12:58:59,683 — app — INFO — /app/app.py - app - 
+                    process_default : 223 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log'; git add .; git commit -m 'auto save by knights-watch';
