@@ -256,3 +256,1927 @@
                     process_default : 219 — auto-commit enabled
 2021-05-07 12:59:45,789 — app — INFO — /app/app.py - app - 
                     process_default : 223 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log'; git add .; git commit -m 'auto save by knights-watch';
+2021-05-07 12:59:45,986 — app — INFO — /app/app.py - app - 
+                    process_default : 228 — cd /git/; git fetch origin; git rebase origin/main;
+2021-05-07 12:59:46,587 — app — INFO — /app/app.py - app - 
+                    process_default : 231 — rebase successful
+2021-05-07 12:59:46,885 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 57 — CommitType changed to : manual
+2021-05-07 12:59:47,084 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    get : 13 — Check git status
+2021-05-07 12:59:47,093 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    get : 23 — End git status
+2021-05-07 12:59:48,587 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:48,588 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:48,588 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,588 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,589 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:48,589 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:48,688 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:48,688 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:48,688 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,689 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,689 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:48,689 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:48,790 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:48,790 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:48,791 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,791 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,791 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:48,791 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:48,986 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:48,987 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:48,988 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,988 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:48,988 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:48,988 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,095 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,096 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,096 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,096 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,097 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,097 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,283 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,284 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,284 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,284 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,284 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,284 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,299 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,299 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,300 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,300 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,300 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,300 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,484 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,485 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,485 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,486 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,486 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,487 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,499 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,499 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name ipynb
+2021-05-07 12:59:49,499 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/TestCommit.ipynb
+2021-05-07 12:59:49,499 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name TestCommit.ipynb
+2021-05-07 12:59:49,499 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,500 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/TestCommit.ipynb' '/git/TestCommit.ipynb';git add .;
+2021-05-07 12:59:49,590 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,682 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name ipynb
+2021-05-07 12:59:49,683 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/TestCommit.ipynb
+2021-05-07 12:59:49,683 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name TestCommit.ipynb
+2021-05-07 12:59:49,683 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,684 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/TestCommit.ipynb' '/git/TestCommit.ipynb';git add .;
+2021-05-07 12:59:49,694 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,695 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,696 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,696 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,696 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,697 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,794 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,795 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,883 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,883 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,884 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,884 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:49,986 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:49,987 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:49,987 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,988 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:49,988 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:49,989 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,087 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,088 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,088 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,088 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,089 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,089 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,183 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,184 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,184 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,185 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,185 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,185 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,284 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,285 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,285 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,285 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,286 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,286 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,389 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,390 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,390 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,390 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,390 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,391 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,488 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,489 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,489 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,489 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,490 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,490 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,588 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,589 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,589 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,589 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,589 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,589 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,692 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,693 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,693 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,693 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,694 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,694 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,883 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,884 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,884 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,885 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,885 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,885 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,895 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,895 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,895 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,896 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,896 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,896 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:50,993 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:50,993 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:50,993 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,993 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:50,994 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:50,994 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,087 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,088 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,088 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,089 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,089 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,089 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,187 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,188 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,188 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,188 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,189 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,189 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,288 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,289 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,289 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,290 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,290 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,290 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,389 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,389 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,483 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,483 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,483 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,484 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,584 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,585 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,585 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,585 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,586 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,586 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,691 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,691 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,692 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,692 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,692 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,693 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,791 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,792 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,792 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,793 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,793 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,793 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:51,890 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:51,891 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:51,891 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,982 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:51,983 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:51,983 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,083 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,084 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,084 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,084 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,084 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,085 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,190 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,190 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,191 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,191 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,192 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,192 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,293 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,294 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,294 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,295 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,295 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,383 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,484 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,485 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,485 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,486 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,486 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,486 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,587 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,588 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,588 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,588 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,589 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,589 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,684 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,685 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,685 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,685 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,686 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,686 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,788 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,789 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,790 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,790 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,790 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,791 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:52,890 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:52,983 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:52,983 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,983 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:52,989 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:52,989 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,085 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,086 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,086 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,087 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,087 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,087 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,100 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,101 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,101 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,101 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,102 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,102 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,285 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,285 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,286 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,286 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,287 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,287 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,389 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,390 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,390 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,390 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,390 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,483 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,494 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,495 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,495 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,583 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,583 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,583 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,683 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,683 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,684 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,684 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,684 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,684 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,694 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,694 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,695 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,695 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,695 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,783 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,793 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,794 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,794 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,794 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,794 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,883 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,894 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,895 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,895 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,895 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,896 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,896 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:53,993 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:53,993 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:53,994 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,994 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:53,994 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:53,994 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,186 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,187 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,187 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,188 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,188 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,188 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,291 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,292 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,383 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,383 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,383 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,384 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,483 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,484 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,484 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,484 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,484 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,485 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,495 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,496 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,496 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,496 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,496 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,497 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,684 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,685 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,685 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,685 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,686 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,686 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,793 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,794 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,794 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,794 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,794 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,794 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:54,988 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:54,990 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:54,991 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,991 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:54,992 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:54,992 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,089 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,090 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,090 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,091 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,091 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,091 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,191 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,192 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,192 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,283 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,284 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,284 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,384 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,384 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,385 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,385 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,385 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,386 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,485 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,486 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,486 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,486 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,487 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,487 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,591 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,683 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,683 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,684 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,684 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,685 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,789 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,789 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,790 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,790 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,790 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,791 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:55,891 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:55,983 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:55,985 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,986 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:55,987 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:55,987 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,086 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,087 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,087 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,088 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,088 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,088 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,284 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,284 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,285 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,285 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,285 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,286 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,385 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,385 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,386 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,386 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,386 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,387 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,488 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,489 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,489 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,489 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,490 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,490 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,592 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,593 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,593 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,593 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,594 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,594 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,784 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,784 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,785 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,785 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,785 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,785 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:56,890 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:56,983 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:56,983 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,983 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:56,984 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:56,984 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,090 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,091 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,091 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,091 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,092 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,092 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,190 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,283 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,283 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,284 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,284 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,284 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,385 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,386 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,387 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,387 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,387 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,387 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,583 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,584 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,584 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,584 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,584 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,585 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,683 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,684 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,684 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,684 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,685 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,685 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,789 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,790 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,790 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,791 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,791 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,791 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:57,987 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:57,988 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:57,988 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,988 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:57,989 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:57,989 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,091 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,091 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,091 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,092 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,092 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,092 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,285 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,286 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,286 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,287 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,287 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,288 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,390 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,483 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,483 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,484 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,484 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,484 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,586 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,587 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,587 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,588 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,588 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,588 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,693 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,694 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,694 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,694 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,694 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,694 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,793 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,794 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,794 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,794 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,883 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,883 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:58,894 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:58,982 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:58,983 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,983 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:58,983 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:58,984 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,085 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,086 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,086 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,086 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,086 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,087 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,097 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,098 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,098 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,098 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,183 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,183 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,286 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,286 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,287 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,287 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,291 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,291 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,487 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,488 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,488 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,489 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,489 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,489 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,593 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,593 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,593 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,594 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,594 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,594 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,694 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,695 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,695 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,695 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,695 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,695 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,884 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,885 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,885 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,886 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,886 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 12:59:59,886 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 12:59:59,992 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 12:59:59,993 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 12:59:59,993 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 12:59:59,993 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,082 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,085 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,200 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,203 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,204 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,204 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,205 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,205 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,294 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,383 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,384 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,384 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,385 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,385 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,483 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,483 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,484 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,484 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,484 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,485 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,584 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,585 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,585 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,586 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,586 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,586 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,691 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,692 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,692 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,692 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,694 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,695 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,883 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,884 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,884 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,884 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,885 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,885 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:00,988 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:00,988 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:00,989 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,989 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:00,989 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:00,990 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,183 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,184 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,184 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,185 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,185 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,185 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,287 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    get : 13 — Check git status
+2021-05-07 13:00:01,296 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,297 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,297 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,297 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,297 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,298 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,485 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    get : 23 — End git status
+2021-05-07 13:00:01,495 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,496 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,496 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,496 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,496 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,497 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,592 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,593 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,593 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,593 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,594 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,594 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,783 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,784 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,784 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,784 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,785 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,785 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,799 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,799 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,800 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,800 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,800 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,800 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:01,986 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:01,987 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:01,988 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,988 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:01,988 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:01,989 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,087 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,088 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,088 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,088 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,089 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,089 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,292 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,293 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,293 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,296 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,296 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,298 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,492 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,493 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,494 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,494 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,495 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,495 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,685 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,685 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,686 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,686 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,687 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,687 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,796 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,796 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,797 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,797 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,797 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,797 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:02,894 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:02,983 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:02,983 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,983 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:02,984 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:02,984 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:03,086 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,087 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:03,087 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,088 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,088 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,088 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:03,288 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,289 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:03,290 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,291 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,291 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,292 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:03,385 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,386 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name ipynb
+2021-05-07 13:00:03,387 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/TestCommit.ipynb
+2021-05-07 13:00:03,388 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name TestCommit.ipynb
+2021-05-07 13:00:03,389 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,389 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/TestCommit.ipynb' '/git/TestCommit.ipynb';git add .;
+2021-05-07 13:00:03,493 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,583 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name ipynb
+2021-05-07 13:00:03,583 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/TestCommit.ipynb
+2021-05-07 13:00:03,584 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name TestCommit.ipynb
+2021-05-07 13:00:03,584 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,584 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/TestCommit.ipynb' '/git/TestCommit.ipynb';git add .;
+2021-05-07 13:00:03,684 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,686 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:03,686 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,686 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,687 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,688 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:03,786 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,786 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:03,787 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,787 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,787 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,788 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:03,889 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:03,890 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:03,890 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,891 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:03,891 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:03,891 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,084 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,085 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,085 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,085 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,086 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,086 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,185 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,186 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,187 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,187 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,187 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,187 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,296 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,297 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,297 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,297 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,298 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,298 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,484 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,484 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,485 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,485 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,486 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,486 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,684 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,684 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,685 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,685 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,685 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,685 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,697 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,698 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,698 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,698 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,783 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,783 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:04,884 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:04,885 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:04,885 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,885 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:04,886 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:04,886 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,093 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,095 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,097 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,098 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,100 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,100 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,294 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,297 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,299 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,301 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,302 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,383 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,490 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,491 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,492 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,492 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,493 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,494 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,683 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,685 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,686 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,688 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,690 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,691 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,792 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,793 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,793 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,794 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,794 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,883 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:05,985 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:05,986 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:05,987 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,987 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:05,987 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:05,988 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,095 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,096 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,096 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,096 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,097 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,097 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,294 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,295 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,295 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,296 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,296 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,382 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,487 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,487 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,488 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,488 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,489 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,489 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,691 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,692 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,692 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,693 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,693 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,693 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,885 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,886 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,886 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,887 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,888 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,888 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:06,988 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:06,989 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:06,989 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,989 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:06,990 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:06,991 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,183 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,184 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,184 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,184 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,184 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,185 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,285 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,286 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,287 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,287 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,287 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,288 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,483 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,484 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,484 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,484 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,485 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,485 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,587 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,588 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,588 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,589 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,589 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,590 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,691 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,692 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,783 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,783 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,783 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,784 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,888 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,888 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,889 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,889 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,890 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:07,890 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:07,996 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:07,997 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:07,997 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,997 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:07,998 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,082 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,188 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,189 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,189 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,190 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,190 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,191 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,388 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,389 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,391 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,391 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,392 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,392 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,587 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,588 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,588 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,588 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,589 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,589 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,783 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,784 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,784 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,785 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,785 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,785 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,888 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,888 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,889 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,889 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,890 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,890 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:08,994 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:08,995 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:08,995 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,995 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:08,995 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:08,995 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:09,189 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:09,282 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:09,283 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,284 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,285 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 79 — Start of PushCommit
+2021-05-07 13:00:09,285 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:09,285 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 85 — git add .; git commit -m 'manual';
+2021-05-07 13:00:09,286 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:09,387 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:09,388 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:09,388 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,388 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,389 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:09,389 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:09,495 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 90 — CompletedProcess(args=['sh', '-c', "git add .; git commit -m 'manual';"], returncode=0, stdout='[main 2275ebf] manual\n 2 files changed, 1951 insertions(+), 1 deletion(-)\n rewrite TestCommit.ipynb (100%)\n', stderr='')
+2021-05-07 13:00:09,495 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 101 — cd /git/; git fetch origin; git rebase origin/main;
+2021-05-07 13:00:09,590 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:09,591 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:09,683 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,683 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,684 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:09,684 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:09,793 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:09,793 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:09,794 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,794 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:09,794 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:09,883 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:10,084 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:10,085 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:10,085 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,087 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,088 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:10,088 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:10,285 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:10,286 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:10,287 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,288 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,288 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:10,288 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
+2021-05-07 13:00:10,487 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 110 — rebase failed
+2021-05-07 13:00:10,487 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 111 — /git/
+2021-05-07 13:00:10,488 — app — INFO — /app/resources/git_operations.py - git_operations - 
+                    post : 112 — /notebooks/
+2021-05-07 13:00:10,588 — app — INFO — /app/app.py - app - 
+                    process_default : 213 — Inside event in modify
+2021-05-07 13:00:10,589 — app — INFO — /app/app.py - app - 
+                    process_default : 214 — Event name e.log
+2021-05-07 13:00:10,590 — app — INFO — /app/app.py - app - 
+                    process_default : 216 — /notebooks/mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,682 — app — INFO — /app/app.py - app - 
+                    process_default : 217 — value of name mosaic-sidecar-flask-service.log
+2021-05-07 13:00:10,683 — app — INFO — /app/app.py - app - 
+                    process_default : 243 — manual-commit enabled
+2021-05-07 13:00:10,683 — app — INFO — /app/app.py - app - 
+                    process_default : 247 — cd /git/; cp -r '/notebooks/mosaic-sidecar-flask-service.log' '/git/mosaic-sidecar-flask-service.log';git add .;
