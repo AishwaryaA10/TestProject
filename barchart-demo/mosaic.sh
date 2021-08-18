@@ -1,0 +1,1 @@
+R -e "install.packages(c('shiny', 'shinydashboard', 'colorspace','colorspace','fansi','utf8','labeling','shiny', 'shinydashboard', 'colorspace','colorspace','fansi','utf8','labeling'), INSTALL_opts = '--no-lock')"
