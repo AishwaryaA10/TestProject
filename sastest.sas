@@ -10,4 +10,5 @@ DATALINES;
 5 John 9000 Finance 
 ;
 RUN;
-#test commit conflict - 2
+
+#test commit conflict -1
