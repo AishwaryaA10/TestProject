@@ -1,5 +1,6 @@
 
-# Taking kilometers input from the user-testing user 2
+
+# Taking kilometers input from the user- auto commit test
 kilometers = 500
 
 
