@@ -1,5 +1,5 @@
 
-# Program to check if the input number is prime or not-manual commit
+# Program to check if the input number is prime or not-auto commit
 
 # take input from the user
 num = as.integer(readline(prompt="Enter a number: "))
