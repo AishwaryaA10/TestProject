@@ -1,4 +1,6 @@
-# Program to check if the input number is prime or not-test 1-commit test - 2
+
+# Program to check if the input number is prime or not-test 1-commit test
+
 # take input from the user
 num = as.integer(readline(prompt="Enter a number: "))
 flag = 0
