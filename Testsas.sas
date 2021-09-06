@@ -6,4 +6,8 @@ proc print data=race;
 var pr;
 run;
 
+<<<<<<< HEAD
 #test2
+=======
+#test1
+>>>>>>> origin/main
