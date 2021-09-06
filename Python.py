@@ -1,5 +1,5 @@
 # Taking kilometers input from the user
-kilometers = 500
+kilometers = 50
 
 # conversion factor
 conv_fac = 0.621371
