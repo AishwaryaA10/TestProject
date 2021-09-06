@@ -1,6 +1,6 @@
 DATA data_set_name;
 INPUT ID $ NAME $ SALARY DEPARTMENT $;
-comm = SALARY*1.50;
+comm = SALARY*2.50;
 LABEL ID = 'Emp_ID' comm = 'COMMISION';
 DATALINES;
 1 Tom 5000 IT
@@ -10,4 +10,4 @@ DATALINES;
 5 John 9000 Finance 
 ;
 RUN;
-#test commit
+#test commit-1
