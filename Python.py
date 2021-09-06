@@ -1,5 +1,5 @@
 
-# Taking kilometers input from the user-testing user 1
+# Taking kilometers input from the user-testing user 2
 kilometers = 500
 
 
