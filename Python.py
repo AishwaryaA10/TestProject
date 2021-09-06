@@ -1,4 +1,4 @@
-# Taking kilometers input from the user
+# Taking kilometers input from the user-testing user 1
 kilometers = 500
 
 # conversion factor
