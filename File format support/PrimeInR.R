@@ -1,4 +1,4 @@
-# Program to check if the input number is prime or not-test1
+# Program to check if the input number is prime or not-test1-conflict 2
 # take input from the user
 num = as.integer(readline(prompt="Enter a number: "))
 flag = 0
