@@ -1,5 +1,5 @@
 # Program to check if the input number is prime or not
-# take input from the user
+# take input from the user- testing 1 changes in file
 num = as.integer(readline(prompt="Enter a number: "))
 flag = 0
 # prime numbers are greater than 1
