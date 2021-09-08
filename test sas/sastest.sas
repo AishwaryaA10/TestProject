@@ -4,11 +4,13 @@ comm = SALARY*2.50;
 LABEL ID = 'Emp_ID' comm = 'COMMISION';
 DATALINES;
 1 Tom 5000 IT
-2 Marry 6000 Operations
+2 Garry 60000 Operations
 3 Michelle 7000 IT
 4 Dick 8000 HR
 5 John 9000 Finance 
 ;
 RUN;
 
-#testing conflict 02 
+
+#testing conflict 1
+
