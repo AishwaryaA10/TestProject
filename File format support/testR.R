@@ -1,5 +1,5 @@
-# take input from the user-testing 1
-num = as.integer(readline(prompt="Enter a number: "))
+# take input from the user-testing 1- conflict 2
+num = as.integer(readline(prompt="Enter a number 1: "))
 factorial = 1
 # check is the number is negative, positive or zero
 if(num < 0) {
