@@ -3,7 +3,7 @@ INPUT ID $ NAME $ SALARY DEPARTMENT $;
 comm = SALARY*2.50;
 LABEL ID = 'Emp_ID' comm = 'COMMISION';
 DATALINES;
-1 Tom1 5000 IT
+1 Tom2 5000 IT
 2 Harry 6000 Operations
 3 Michelle 7000 IT
 4 Dick 8000 HR
@@ -11,4 +11,8 @@ DATALINES;
 ;
 RUN;
 
-#test
+
+
+#test commit conflict -3
+
+
