@@ -54,7 +54,7 @@ predict_prob <- predict(fit, Test, type="prob")
 value <- register_model(
   fit,
   score,
-  name="Titanicdatata",
+  name="Titanicdatata1",
   description="R Model",
   flavour="r",
   input_type="file",
