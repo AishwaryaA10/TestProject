@@ -9296,3 +9296,35 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:57:47,316:INFO:Extra Trees Classifier Imported succesfully
 2021-09-29 04:57:47,331:INFO:Starting cross validation
 2021-09-29 04:57:47,332:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2021-09-29 04:57:52,025:INFO:Calculating mean and std
+2021-09-29 04:57:52,027:INFO:Creating metrics dataframe
+2021-09-29 04:57:52,034:INFO:Uploading results into container
+2021-09-29 04:57:52,034:INFO:Uploading model into container now
+2021-09-29 04:57:52,034:INFO:create_model_container: 1
+2021-09-29 04:57:52,034:INFO:master_model_container: 1
+2021-09-29 04:57:52,034:INFO:display_container: 2
+2021-09-29 04:57:52,035:INFO:ExtraTreesClassifier(bootstrap=False, ccp_alpha=0.0, class_weight=None,
+                     criterion='gini', max_depth=None, max_features='auto',
+                     max_leaf_nodes=None, max_samples=None,
+                     min_impurity_decrease=0.0, min_impurity_split=None,
+                     min_samples_leaf=1, min_samples_split=2,
+                     min_weight_fraction_leaf=0.0, n_estimators=100, n_jobs=-1,
+                     oob_score=False, random_state=6089, verbose=0,
+                     warm_start=False)
+2021-09-29 04:57:52,035:INFO:create_model() succesfully completed......................................
+2021-09-29 04:57:52,153:INFO:SubProcess create_model() end ==================================
+2021-09-29 04:57:52,153:INFO:Creating metrics dataframe
+2021-09-29 04:57:52,169:INFO:Initializing Random Forest Classifier
+2021-09-29 04:57:52,169:INFO:Total runtime is 0.08130912780761719 minutes
+2021-09-29 04:57:52,178:INFO:SubProcess create_model() called ==================================
+2021-09-29 04:57:52,178:INFO:Initializing create_model()
+2021-09-29 04:57:52,178:INFO:create_model(estimator=rf, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, verbose=False, system=False, metrics=None, add_to_model_list=True, display=<pycaret.internal.Display.Display object at 0x7f557ab911d0>, kwargs={})
+2021-09-29 04:57:52,178:INFO:Checking exceptions
+2021-09-29 04:57:52,178:INFO:Importing libraries
+2021-09-29 04:57:52,178:INFO:Copying training dataset
+2021-09-29 04:57:52,179:INFO:Defining folds
+2021-09-29 04:57:52,179:INFO:Declaring metric variables
+2021-09-29 04:57:52,187:INFO:Importing untrained model
+2021-09-29 04:57:52,196:INFO:Random Forest Classifier Imported succesfully
+2021-09-29 04:57:52,214:INFO:Starting cross validation
+2021-09-29 04:57:52,214:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
