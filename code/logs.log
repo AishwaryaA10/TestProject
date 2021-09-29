@@ -9628,3 +9628,90 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
                        n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
                        warm_start=False), use_train_data=False, X_new_sample=None, y_new_sample=None, feature=None, kwargs={}, observation=None, plot=summary, save=False)
 2021-09-29 04:58:40,765:INFO:Checking exceptions
+2021-09-29 04:58:47,276:INFO:plot type: summary
+2021-09-29 04:58:47,276:INFO:Creating TreeExplainer
+2021-09-29 04:58:47,282:INFO:Compiling shap values
+2021-09-29 04:58:47,763:INFO:Visual Rendered Successfully
+2021-09-29 04:58:47,763:INFO:interpret_model() succesfully completed......................................
+2021-09-29 04:58:47,947:INFO:Initializing interpret_model()
+2021-09-29 04:58:47,947:INFO:interpret_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), use_train_data=False, X_new_sample=None, y_new_sample=None, feature=None, kwargs={}, observation=None, plot=correlation, save=False)
+2021-09-29 04:58:47,947:INFO:Checking exceptions
+2021-09-29 04:58:47,947:INFO:plot type: correlation
+2021-09-29 04:58:47,947:WARNING:No feature passed. Default value of feature used for correlation plot: ci_distance
+2021-09-29 04:58:47,947:INFO:Creating TreeExplainer
+2021-09-29 04:58:47,952:INFO:Compiling shap values
+2021-09-29 04:58:47,960:INFO:model type detected: type 1
+2021-09-29 04:58:48,224:INFO:Visual Rendered Successfully
+2021-09-29 04:58:48,225:INFO:interpret_model() succesfully completed......................................
+2021-09-29 04:58:48,405:INFO:Initializing interpret_model()
+2021-09-29 04:58:48,406:INFO:interpret_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), use_train_data=False, X_new_sample=None, y_new_sample=None, feature=None, kwargs={}, observation=21, plot=reason, save=False)
+2021-09-29 04:58:48,406:INFO:Checking exceptions
+2021-09-29 04:58:48,406:INFO:plot type: reason
+2021-09-29 04:58:48,406:INFO:model type detected: type 1
+2021-09-29 04:58:48,406:INFO:Creating TreeExplainer
+2021-09-29 04:58:48,411:INFO:Compiling shap values
+2021-09-29 04:58:48,411:INFO:model type detected: Unknown
+2021-09-29 04:58:48,420:INFO:Visual Rendered Successfully
+2021-09-29 04:58:48,420:INFO:interpret_model() succesfully completed......................................
+2021-09-29 04:58:48,623:INFO:Initializing predict_model()
+2021-09-29 04:58:48,623:INFO:predict_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=MLUsecase.CLASSIFICATION, display=None)
+2021-09-29 04:58:48,623:INFO:Checking exceptions
+2021-09-29 04:58:48,623:INFO:Preloading libraries
+2021-09-29 04:58:48,624:INFO:Preparing display monitor
+2021-09-29 04:58:49,037:INFO:Initializing finalize_model()
+2021-09-29 04:58:49,037:INFO:finalize_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), fit_kwargs=None, groups=None, model_only=True, display=None)
+2021-09-29 04:58:49,038:INFO:Finalizing RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:58:49,038:INFO:Initializing create_model()
+2021-09-29 04:58:49,038:INFO:create_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), fold=None, round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, verbose=False, system=False, metrics=None, add_to_model_list=False, display=None, kwargs={})
+2021-09-29 04:58:49,038:INFO:Checking exceptions
+2021-09-29 04:58:49,038:INFO:Importing libraries
+2021-09-29 04:58:49,038:INFO:Copying training dataset
+2021-09-29 04:58:49,039:INFO:Defining folds
+2021-09-29 04:58:49,039:INFO:Declaring metric variables
+2021-09-29 04:58:49,039:INFO:Importing untrained model
+2021-09-29 04:58:49,039:INFO:Declaring custom model
+2021-09-29 04:58:49,039:INFO:Random Forest Classifier Imported succesfully
+2021-09-29 04:58:49,039:INFO:Starting cross validation
+2021-09-29 04:58:49,040:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
