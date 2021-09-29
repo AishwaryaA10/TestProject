@@ -9778,3 +9778,30 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:58:53,943:INFO:Random Forest Classifier Imported succesfully
 2021-09-29 04:58:53,943:INFO:Starting cross validation
 2021-09-29 04:58:53,943:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2021-09-29 04:58:57,818:INFO:Calculating mean and std
+2021-09-29 04:58:57,818:INFO:Creating metrics dataframe
+2021-09-29 04:58:57,824:INFO:Finalizing model
+2021-09-29 04:58:58,471:INFO:create_model_container: 4
+2021-09-29 04:58:58,471:INFO:master_model_container: 4
+2021-09-29 04:58:58,471:INFO:display_container: 5
+2021-09-29 04:58:58,472:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:58:58,472:INFO:create_model() succesfully completed......................................
+2021-09-29 04:58:58,657:INFO:create_model_container: 4
+2021-09-29 04:58:58,657:INFO:master_model_container: 4
+2021-09-29 04:58:58,657:INFO:display_container: 4
+2021-09-29 04:58:58,657:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:58:58,657:INFO:finalize_model() succesfully completed......................................
