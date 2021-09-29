@@ -9474,3 +9474,89 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:58:28,477:INFO:Random Forest Classifier Imported succesfully
 2021-09-29 04:58:28,496:INFO:Starting cross validation
 2021-09-29 04:58:28,497:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2021-09-29 04:58:32,034:INFO:Calculating mean and std
+2021-09-29 04:58:32,035:INFO:Creating metrics dataframe
+2021-09-29 04:58:32,046:INFO:Finalizing model
+2021-09-29 04:58:32,695:INFO:Uploading results into container
+2021-09-29 04:58:32,695:INFO:Uploading model into container now
+2021-09-29 04:58:32,695:INFO:create_model_container: 4
+2021-09-29 04:58:32,695:INFO:master_model_container: 4
+2021-09-29 04:58:32,695:INFO:display_container: 3
+2021-09-29 04:58:32,696:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:58:32,696:INFO:create_model() succesfully completed......................................
+2021-09-29 04:58:32,796:INFO:SubProcess create_model() end ==================================
+2021-09-29 04:58:32,812:INFO:create_model_container: 4
+2021-09-29 04:58:32,812:INFO:master_model_container: 4
+2021-09-29 04:58:32,812:INFO:display_container: 3
+2021-09-29 04:58:32,813:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:58:32,813:INFO:tune_model() succesfully completed......................................
+2021-09-29 04:58:32,923:INFO:Initializing plot_model()
+2021-09-29 04:58:32,924:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=auc, save=False, scale=1, system=True)
+2021-09-29 04:58:32,924:INFO:Checking exceptions
+2021-09-29 04:58:33,027:INFO:Preparing display monitor
+2021-09-29 04:58:33,035:INFO:Preloading libraries
+2021-09-29 04:58:33,046:INFO:Copying training dataset
+2021-09-29 04:58:33,046:INFO:Copying test dataset
+2021-09-29 04:58:33,047:INFO:Plot type: auc
+2021-09-29 04:58:33,252:INFO:Fitting Model
+2021-09-29 04:58:33,253:INFO:Scoring test/hold-out set
+2021-09-29 04:58:33,667:INFO:Visual Rendered Successfully
+2021-09-29 04:58:33,769:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:33,773:INFO:Initializing plot_model()
+2021-09-29 04:58:33,773:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=confusion_matrix, save=False, scale=1, system=True)
+2021-09-29 04:58:33,773:INFO:Checking exceptions
+2021-09-29 04:58:33,876:INFO:Preparing display monitor
+2021-09-29 04:58:33,883:INFO:Preloading libraries
+2021-09-29 04:58:33,896:INFO:Copying training dataset
+2021-09-29 04:58:33,896:INFO:Copying test dataset
+2021-09-29 04:58:33,896:INFO:Plot type: confusion_matrix
+2021-09-29 04:58:34,105:INFO:Fitting Model
+2021-09-29 04:58:34,106:INFO:Scoring test/hold-out set
+2021-09-29 04:58:34,443:INFO:Visual Rendered Successfully
+2021-09-29 04:58:34,548:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:34,553:INFO:Initializing plot_model()
+2021-09-29 04:58:34,553:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=boundary, save=False, scale=1, system=True)
+2021-09-29 04:58:34,553:INFO:Checking exceptions
+2021-09-29 04:58:34,656:INFO:Preparing display monitor
+2021-09-29 04:58:34,664:INFO:Preloading libraries
+2021-09-29 04:58:34,674:INFO:Copying training dataset
+2021-09-29 04:58:34,674:INFO:Copying test dataset
+2021-09-29 04:58:34,674:INFO:Plot type: boundary
+2021-09-29 04:58:34,881:INFO:Fitting StandardScaler()
+2021-09-29 04:58:34,885:INFO:Fitting PCA()
+2021-09-29 04:58:34,887:INFO:Fitting Model
