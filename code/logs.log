@@ -9328,3 +9328,127 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:57:52,196:INFO:Random Forest Classifier Imported succesfully
 2021-09-29 04:57:52,214:INFO:Starting cross validation
 2021-09-29 04:57:52,214:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2021-09-29 04:57:55,754:INFO:Calculating mean and std
+2021-09-29 04:57:55,755:INFO:Creating metrics dataframe
+2021-09-29 04:57:55,759:INFO:Uploading results into container
+2021-09-29 04:57:55,759:INFO:Uploading model into container now
+2021-09-29 04:57:55,759:INFO:create_model_container: 2
+2021-09-29 04:57:55,760:INFO:master_model_container: 2
+2021-09-29 04:57:55,760:INFO:display_container: 2
+2021-09-29 04:57:55,760:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:57:55,760:INFO:create_model() succesfully completed......................................
+2021-09-29 04:57:55,856:INFO:SubProcess create_model() end ==================================
+2021-09-29 04:57:55,857:INFO:Creating metrics dataframe
+2021-09-29 04:57:55,875:INFO:Initializing Logistic Regression
+2021-09-29 04:57:55,875:INFO:Total runtime is 0.14307322104771933 minutes
+2021-09-29 04:57:55,883:INFO:SubProcess create_model() called ==================================
+2021-09-29 04:57:55,884:INFO:Initializing create_model()
+2021-09-29 04:57:55,884:INFO:create_model(estimator=lr, fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=False, verbose=False, system=False, metrics=None, add_to_model_list=True, display=<pycaret.internal.Display.Display object at 0x7f557ab911d0>, kwargs={})
+2021-09-29 04:57:55,884:INFO:Checking exceptions
+2021-09-29 04:57:55,884:INFO:Importing libraries
+2021-09-29 04:57:55,884:INFO:Copying training dataset
+2021-09-29 04:57:55,885:INFO:Defining folds
+2021-09-29 04:57:55,885:INFO:Declaring metric variables
+2021-09-29 04:57:55,895:INFO:Importing untrained model
+2021-09-29 04:57:55,903:INFO:Logistic Regression Imported succesfully
+2021-09-29 04:57:55,919:INFO:Starting cross validation
+2021-09-29 04:57:55,919:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
+2021-09-29 04:57:56,075:INFO:Calculating mean and std
+2021-09-29 04:57:56,076:INFO:Creating metrics dataframe
+2021-09-29 04:57:56,081:INFO:Uploading results into container
+2021-09-29 04:57:56,081:INFO:Uploading model into container now
+2021-09-29 04:57:56,081:INFO:create_model_container: 3
+2021-09-29 04:57:56,081:INFO:master_model_container: 3
+2021-09-29 04:57:56,081:INFO:display_container: 2
+2021-09-29 04:57:56,081:INFO:LogisticRegression(C=1.0, class_weight=None, dual=False, fit_intercept=True,
+                   intercept_scaling=1, l1_ratio=None, max_iter=1000,
+                   multi_class='auto', n_jobs=None, penalty='l2',
+                   random_state=6089, solver='lbfgs', tol=0.0001, verbose=0,
+                   warm_start=False)
+2021-09-29 04:57:56,082:INFO:create_model() succesfully completed......................................
+2021-09-29 04:57:56,189:INFO:SubProcess create_model() end ==================================
+2021-09-29 04:57:56,189:INFO:Creating metrics dataframe
+2021-09-29 04:57:56,231:INFO:Initializing create_model()
+2021-09-29 04:57:56,231:INFO:create_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=False, predict=False, fit_kwargs={}, groups=None, refit=True, verbose=False, system=False, metrics=None, add_to_model_list=True, display=None, kwargs={})
+2021-09-29 04:57:56,231:INFO:Checking exceptions
+2021-09-29 04:57:56,231:INFO:Importing libraries
+2021-09-29 04:57:56,232:INFO:Copying training dataset
+2021-09-29 04:57:56,232:INFO:Defining folds
+2021-09-29 04:57:56,232:INFO:Declaring metric variables
+2021-09-29 04:57:56,232:INFO:Importing untrained model
+2021-09-29 04:57:56,232:INFO:Declaring custom model
+2021-09-29 04:57:56,233:INFO:Random Forest Classifier Imported succesfully
+2021-09-29 04:57:56,233:INFO:Cross validation set to False
+2021-09-29 04:57:56,233:INFO:Fitting Model
+2021-09-29 04:57:56,872:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:57:56,872:INFO:create_models() succesfully completed......................................
+2021-09-29 04:57:57,002:INFO:create_model_container: 3
+2021-09-29 04:57:57,002:INFO:master_model_container: 3
+2021-09-29 04:57:57,002:INFO:display_container: 2
+2021-09-29 04:57:57,002:INFO:RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False)
+2021-09-29 04:57:57,002:INFO:compare_models() succesfully completed......................................
+2021-09-29 04:57:57,018:INFO:Initializing plot_model()
+2021-09-29 04:57:57,019:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=confusion_matrix, save=False, scale=1, system=True)
+2021-09-29 04:57:57,019:INFO:Checking exceptions
+2021-09-29 04:57:57,121:INFO:Preparing display monitor
+2021-09-29 04:57:57,132:INFO:Preloading libraries
+2021-09-29 04:57:57,147:INFO:Copying training dataset
+2021-09-29 04:57:57,147:INFO:Copying test dataset
+2021-09-29 04:57:57,148:INFO:Plot type: confusion_matrix
+2021-09-29 04:57:57,374:INFO:Fitting Model
+2021-09-29 04:57:57,375:INFO:Scoring test/hold-out set
+2021-09-29 04:57:57,846:INFO:Visual Rendered Successfully
+2021-09-29 04:57:57,952:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:57:57,957:INFO:Initializing tune_model()
+2021-09-29 04:57:57,957:INFO:tune_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), fold=None, round=4, n_iter=10, custom_grid=None, optimize=Prec., custom_scorer=None, search_library=scikit-learn, search_algorithm=None, early_stopping=False, early_stopping_max_iters=10, choose_better=False, fit_kwargs=None, groups=None, return_tuner=False, verbose=True, tuner_verbose=True, display=None, kwargs={})
+2021-09-29 04:57:57,957:INFO:Checking exceptions
+2021-09-29 04:57:57,958:INFO:Preparing display monitor
+2021-09-29 04:57:57,976:INFO:Copying training dataset
+2021-09-29 04:57:57,977:INFO:Checking base model
+2021-09-29 04:57:57,978:INFO:Base model : Random Forest Classifier
+2021-09-29 04:57:57,991:INFO:Declaring metric variables
+2021-09-29 04:57:57,999:INFO:Defining Hyperparameters
+2021-09-29 04:57:58,099:INFO:Tuning with n_jobs=-1
+2021-09-29 04:57:58,099:INFO:Initializing RandomizedSearchCV
