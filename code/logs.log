@@ -9452,3 +9452,25 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:57:57,999:INFO:Defining Hyperparameters
 2021-09-29 04:57:58,099:INFO:Tuning with n_jobs=-1
 2021-09-29 04:57:58,099:INFO:Initializing RandomizedSearchCV
+2021-09-29 04:58:28,453:INFO:best_params: {'actual_estimator__n_estimators': 120, 'actual_estimator__min_samples_split': 2, 'actual_estimator__min_samples_leaf': 6, 'actual_estimator__min_impurity_decrease': 0.002, 'actual_estimator__max_features': 1.0, 'actual_estimator__max_depth': 1, 'actual_estimator__criterion': 'gini', 'actual_estimator__class_weight': 'balanced', 'actual_estimator__bootstrap': True}
+2021-09-29 04:58:28,453:INFO:Hyperparameter search completed
+2021-09-29 04:58:28,454:INFO:SubProcess create_model() called ==================================
+2021-09-29 04:58:28,454:INFO:Initializing create_model()
+2021-09-29 04:58:28,454:INFO:create_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight=None,
+                       criterion='gini', max_depth=None, max_features='auto',
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.0, min_impurity_split=None,
+                       min_samples_leaf=1, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=100,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), fold=StratifiedKFold(n_splits=10, random_state=None, shuffle=False), round=4, cross_validation=True, predict=True, fit_kwargs={}, groups=None, refit=True, verbose=True, system=False, metrics=None, add_to_model_list=True, display=<pycaret.internal.Display.Display object at 0x7f557ac17a50>, kwargs={'n_estimators': 120, 'min_samples_split': 2, 'min_samples_leaf': 6, 'min_impurity_decrease': 0.002, 'max_features': 1.0, 'max_depth': 1, 'criterion': 'gini', 'class_weight': 'balanced', 'bootstrap': True})
+2021-09-29 04:58:28,455:INFO:Checking exceptions
+2021-09-29 04:58:28,455:INFO:Importing libraries
+2021-09-29 04:58:28,455:INFO:Copying training dataset
+2021-09-29 04:58:28,455:INFO:Defining folds
+2021-09-29 04:58:28,456:INFO:Declaring metric variables
+2021-09-29 04:58:28,466:INFO:Importing untrained model
+2021-09-29 04:58:28,466:INFO:Declaring custom model
+2021-09-29 04:58:28,477:INFO:Random Forest Classifier Imported succesfully
+2021-09-29 04:58:28,496:INFO:Starting cross validation
+2021-09-29 04:58:28,497:INFO:Cross validating with StratifiedKFold(n_splits=10, random_state=None, shuffle=False), n_jobs=-1
