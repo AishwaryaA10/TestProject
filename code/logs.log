@@ -9560,3 +9560,71 @@ joblib.externals.loky.process_executor.BrokenProcessPool: A task has failed to u
 2021-09-29 04:58:34,881:INFO:Fitting StandardScaler()
 2021-09-29 04:58:34,885:INFO:Fitting PCA()
 2021-09-29 04:58:34,887:INFO:Fitting Model
+2021-09-29 04:58:38,067:INFO:Visual Rendered Successfully
+2021-09-29 04:58:38,242:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:38,246:INFO:Initializing plot_model()
+2021-09-29 04:58:38,247:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=feature, save=False, scale=1, system=True)
+2021-09-29 04:58:38,247:INFO:Checking exceptions
+2021-09-29 04:58:38,349:INFO:Preparing display monitor
+2021-09-29 04:58:38,356:INFO:Preloading libraries
+2021-09-29 04:58:38,366:INFO:Copying training dataset
+2021-09-29 04:58:38,366:INFO:Copying test dataset
+2021-09-29 04:58:38,366:INFO:Plot type: feature
+2021-09-29 04:58:38,570:WARNING:No coef_ found. Trying feature_importances_
+2021-09-29 04:58:38,849:INFO:Visual Rendered Successfully
+2021-09-29 04:58:38,952:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:38,956:INFO:Initializing plot_model()
+2021-09-29 04:58:38,957:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=pr, save=False, scale=1, system=True)
+2021-09-29 04:58:38,957:INFO:Checking exceptions
+2021-09-29 04:58:39,059:INFO:Preparing display monitor
+2021-09-29 04:58:39,067:INFO:Preloading libraries
+2021-09-29 04:58:39,077:INFO:Copying training dataset
+2021-09-29 04:58:39,078:INFO:Copying test dataset
+2021-09-29 04:58:39,078:INFO:Plot type: pr
+2021-09-29 04:58:39,284:INFO:Fitting Model
+2021-09-29 04:58:39,285:INFO:Scoring test/hold-out set
+2021-09-29 04:58:39,695:INFO:Visual Rendered Successfully
+2021-09-29 04:58:39,800:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:39,808:INFO:Initializing plot_model()
+2021-09-29 04:58:39,808:INFO:plot_model(fold=None, use_train_data=False, verbose=True, is_in_evaluate=False, display=None, display_format=None, estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), feature_name=None, fit_kwargs=None, groups=None, label=False, plot=class_report, save=False, scale=1, system=True)
+2021-09-29 04:58:39,808:INFO:Checking exceptions
+2021-09-29 04:58:39,911:INFO:Preparing display monitor
+2021-09-29 04:58:39,917:INFO:Preloading libraries
+2021-09-29 04:58:39,927:INFO:Copying training dataset
+2021-09-29 04:58:39,928:INFO:Copying test dataset
+2021-09-29 04:58:39,928:INFO:Plot type: class_report
+2021-09-29 04:58:40,133:INFO:Fitting Model
+2021-09-29 04:58:40,135:INFO:Scoring test/hold-out set
+2021-09-29 04:58:40,632:INFO:Visual Rendered Successfully
+2021-09-29 04:58:40,754:INFO:plot_model() succesfully completed......................................
+2021-09-29 04:58:40,765:INFO:Initializing interpret_model()
+2021-09-29 04:58:40,765:INFO:interpret_model(estimator=RandomForestClassifier(bootstrap=True, ccp_alpha=0.0, class_weight='balanced',
+                       criterion='gini', max_depth=1, max_features=1.0,
+                       max_leaf_nodes=None, max_samples=None,
+                       min_impurity_decrease=0.002, min_impurity_split=None,
+                       min_samples_leaf=6, min_samples_split=2,
+                       min_weight_fraction_leaf=0.0, n_estimators=120,
+                       n_jobs=-1, oob_score=False, random_state=6089, verbose=0,
+                       warm_start=False), use_train_data=False, X_new_sample=None, y_new_sample=None, feature=None, kwargs={}, observation=None, plot=summary, save=False)
+2021-09-29 04:58:40,765:INFO:Checking exceptions
