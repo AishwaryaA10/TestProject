@@ -72,6 +72,6 @@ Scoring_func_name
 Flavour*/
 
 %LET MODEL_OBJ_PATH '/notebooks/notebooks/titanic_logistic.sas7bitm';
-%LET SCORE_FILE '/notebooks/notebooks/SAS Model Sample (For Scheduler Monitor Testing)/mosaic_score1.sas';
+%LET SCORE_FILE '/notebooks/notebooks/Files_With_Hash_In_Name/SAS Model Sample (For Scheduler Monitor Testing)/mosaic_score1.sas';
 %INCLUDE '/mosaicsasml/SAS/mosaicsasml.sas';
 %register_model('titanic_classification_1', 'test_sas_model');
