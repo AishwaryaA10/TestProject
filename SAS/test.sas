@@ -12,4 +12,3 @@ DATALINES;
 RUN;
 
 #auto comit
-#manual commit
