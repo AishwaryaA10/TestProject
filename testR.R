@@ -20,3 +20,6 @@ if(flag == 1) {
 } else {
   print(paste(num,"is not a prime number"))
 }
+
+# test1
+#test2
