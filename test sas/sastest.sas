@@ -12,7 +12,7 @@ DATALINES;
 RUN;
 
 #auto
-
+#manual
 #testing 
 
 
