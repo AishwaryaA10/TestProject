@@ -1,3 +1,8 @@
+DATA TEMP;
+INPUT ID $ NAME $ SALARY DEPARTMENT $;
+comm = SALARY*0.25;
+LABEL ID = 'Employee ID' comm = 'COMMISION';
+DATALINES;
 
 1 Rick 623.3 IT
 2 Dan 515.2 Operations
