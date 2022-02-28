@@ -1,0 +1,6 @@
+#auto commits
+DATA TEMP;
+INPUT ID $ NAME $ SALARY DEPARTMENT $;
+comm = SALARY*0.25;
+LABEL ID = 'Employee ID' comm = 'COMMISION';
+DATALINES;
