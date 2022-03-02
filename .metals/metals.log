@@ -3355,3 +3355,5 @@ Caused by: java.lang.ClassNotFoundException: ???
 	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
 	... 4 more
 
+Mar 02, 2022 7:13:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 709
