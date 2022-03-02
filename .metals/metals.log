@@ -86,3 +86,8 @@ Caused by: java.lang.IllegalArgumentException: 23 is not a valid line number, al
 	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
 	... 16 more
 
+[0m2022.03.02 06:35:22 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Mar 02, 2022 6:35:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.03.02 06:35:27 INFO  time: code lens generation in 6.09s[0m
+[0m2022.03.02 06:35:27 INFO  time: code lens generation in 7.66s[0m
