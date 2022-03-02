@@ -17,7 +17,7 @@
             "type": "scala",
             "request": "attach",
             "name": "Testscala",
-            "buildTarget": "???",
+            "buildTarget": "main",
             "hostName": "localhost",
             "port": 5005
         },
