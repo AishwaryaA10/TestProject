@@ -8,7 +8,7 @@ object GeeksScala
     def main(): Unit = (args : Array[String])
     {
         // file name
-        val fname: Null: Null = """|/data/testscala.txt" "".stripMargin
+        val fname = """|/data/testscala.txt" "".stripMargin
   
         // creates iterable representation 
         // of the source file            
