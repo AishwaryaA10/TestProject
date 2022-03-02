@@ -24,7 +24,7 @@
         {
             "type": "scala",
             "request": "launch",
-            "name": "Untitled-1",
+            "name": "Testscala",
             "mainClass": "main",
             "args": [],
             "jvmOptions": [],

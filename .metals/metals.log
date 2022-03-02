@@ -2961,3 +2961,5 @@ Caused by: java.lang.ClassNotFoundException: main
 
 Mar 02, 2022 6:51:26 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Mar 02, 2022 6:51:32 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
