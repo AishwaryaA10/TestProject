@@ -2,7 +2,7 @@ import scala.io.Source
 
 object Wordcount {
   
-  def main(args:Array[String]) {
+  def main(): Unit = (args:Array[String]) {
   
   println(Source.fromFile("/data/testcala.txt")) // returns scala.io.BufferedSource non-empty iterator instance
   
