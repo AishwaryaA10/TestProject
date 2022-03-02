@@ -8,7 +8,7 @@ object GeeksScala
     def main(): Unit = (args : Array[String])
     {
         // file name
-        val fname = /data/testscala.txt
+        val fname = "/data/testscala.txt
   
         // creates iterable representation 
         // of the source file            
