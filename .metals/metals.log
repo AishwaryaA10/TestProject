@@ -2914,3 +2914,5 @@ Caused by: java.lang.ClassNotFoundException: ???
 	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:41)
 	... 4 more
 
+Mar 02, 2022 6:50:53 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
