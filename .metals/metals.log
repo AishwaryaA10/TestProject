@@ -3357,3 +3357,4 @@ Caused by: java.lang.ClassNotFoundException: ???
 
 Mar 02, 2022 7:13:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 709
+[0m2022.03.02 07:35:00 WARN  no build target for: /notebooks/notebooks/Scala.scala[0m
