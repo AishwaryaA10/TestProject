@@ -5,7 +5,7 @@ import scala.io.Source
 object GeeksScala
 {
     // Main method
-    def main(): Unit = (args : Array[String])
+    def main() = (args : Array[String])
     {
         // file name
         val fname = /data/testscala.txt
