@@ -531,3 +531,4 @@ Caused by: java.lang.IllegalArgumentException: 9 is not a valid line number, all
 	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1553)
 	... 15 more
 
+[0m2022.03.02 06:37:49 WARN  no build target for: /notebooks/notebooks/Untitled-1.scala[0m
