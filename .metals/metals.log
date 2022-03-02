@@ -3145,3 +3145,4 @@ Caused by: java.lang.ClassNotFoundException: ???
 
 [0m2022.03.02 06:56:49 WARN  no build target for: /notebooks/notebooks/Testscala.scala[0m
 [0m2022.03.02 06:56:53 WARN  no build target for: /notebooks/notebooks/Testscala.scala[0m
+[0m2022.03.02 06:57:12 WARN  no build target for: /notebooks/notebooks/Testscala.scala[0m
