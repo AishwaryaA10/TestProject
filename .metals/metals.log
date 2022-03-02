@@ -3310,3 +3310,5 @@ Caused by: java.nio.file.FileSystemNotFoundException: Provider "untitled" not in
 	at scala.meta.internal.metals.MetalsLanguageServer.didFocus(MetalsLanguageServer.scala:1067)
 	... 15 more
 
+[0m2022.03.02 07:12:18 WARN  no build target for: /notebooks/notebooks/Scala.scala[0m
+[0m2022.03.02 07:12:22 WARN  no build target for: /notebooks/notebooks/Scala.scala[0m
