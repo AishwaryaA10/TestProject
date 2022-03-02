@@ -1,10 +1,1 @@
-[0m2021.09.03 05:55:35 INFO  Started: Metals version 0.10.4 in workspace '/notebooks/notebooks' for client code-server 1.54.2.[0m
-[0m2021.09.03 05:55:38 INFO  time: initialize in 2.92s[0m
-[0m2021.09.03 05:55:38 WARN  Build server is not auto-connectable.[0m
-[0m2021.09.03 05:55:38 WARN  no build tool detected in workspace '/notebooks/notebooks'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
-Sep 03, 2021 5:56:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
-INFO: Unsupported notification method: $/setTrace
-Sep 03, 2021 5:56:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
-INFO: Unsupported notification method: $/setTrace
-Sep 03, 2021 5:56:55 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
-INFO: Unsupported notification method: $/setTrace
+[0m2022.03.02 06:34:51 INFO  Started: Metals version 0.10.8 in workspace '/notebooks/notebooks' for client code-server 1.57.1.[0m
