@@ -2,4 +2,5 @@ test1
 
 test-manual
 
-#test1
+#test1-auto
+#manual
