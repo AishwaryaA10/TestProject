@@ -1,4 +1,3 @@
-Libname mosaic '/notebooks/notebooks/';
 
 
 /* Score function for model registry */
