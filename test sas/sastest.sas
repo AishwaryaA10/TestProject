@@ -11,7 +11,7 @@ DATALINES;
 ;
 RUN;
 
-#auto
+#auto commit
 
 #testing 
 
