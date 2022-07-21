@@ -1,4 +1,4 @@
-#auto commit
+#auto commit-1
 #test1
 fileConn<-file("/data/output12.txt")
 writeLines(c("Hello","World!!"), fileConn)
