@@ -1,3 +1,3 @@
-#auto commit1
+#auto commit
 #manual commit1
 #manual commit2
