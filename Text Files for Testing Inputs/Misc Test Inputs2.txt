@@ -1,0 +1,33 @@
+Gitlab Light - https://gitlab.com/vishalghanekar211/programflow.git
+Github Light - https://github.com/vishalGhanekar211/c03469fb-3443-43ee-9075-65f5ef125c45.git
+Bitbucket Light - http://54.162.19.231:7990/scm/test/01309dbb-04d9-4b9b-ac63-5ce0cc655717.git
+
+Gitlab Heavy - https://gitlab.com/vishalghanekar211/TestProject2.git
+Gitlab token - glpat-sDXM2shQjCYVhwn3yyDZ
+Github Heavy - https://github.com/vishalGhanekar211/TestProject3.git
+Github token - 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
+Bitbucket Heavy - http://54.162.19.231:7990/scm/test/847c76c7-341f-4c9b-979b-a4b45511b794.git
+
+GitLab access token - glpat-S7EAzvEix2TnL53zjrqD
+Github access token - 33d038b667f5183818aa10b25769dee194c3b434
+
+QA URL - https://qa.fosfor.com/ai/projects/
+GA URL - https://ga.fosfor.com/ai/projects
+SCB Sandbox URL - http://mosaic-web-641551315.us-east-1.elb.amazonaws.com/ai/projects
+
+
+30 04 * * 1-5 - Jenkins QA Cron - 30 00 * * *
+30 04 * * * - SaaS cron expression
+
+Default - DiamondPrice_RegressionSKLEARN, CarEvaluation_RegressionTENSORFLOW, CarEvaluation_ClassificationTENSORFLOW, Iris_ClassificationPYTORCH, Admission_RegressionKERAS, Keras_Model_From_UI, Tensorflow_Model_From_UI, R_Model_With_Package, Sklearn_Model_From_UI
+
+Custom - Titanicruntestv1, diabetes_regression_xgboost, Refractml_Sklearn_Python, Refractml_Sklearn_Jlab, Pytorch_Model_From_UI, R_Model_From_UI, Sklearn_Model_With_Package, 
+
+No repo - Keras_Model_From_UI, Tensorflow_Model_From_UI, Sklearn_Model_From_UI, Pytorch_Model_From_UI, R_Model_From_UI
+
+Rshiny - Default
+
+Dash - Custom
+
+refractml and tensorflow model failures to be passed
+

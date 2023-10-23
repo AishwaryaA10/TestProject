@@ -1,0 +1,48 @@
+https://git.lti-aiq.in/mosaic-ai-logistics/Mosaic-api-automation.git
+
+{"payload": [ 25, 185,  88,  78,  65,  81,  77,  75,  81,  63,  37,  26,   9,
+        10,  79,  82]}
+
+{
+   "payload":"{\"buying_num\":{\"0\":1},\"maintenance_num\":{\"0\":2},\"doors_num\":{\"0\":0},\"persons_num\":{\"0\":2},\"lugboot_num\":{\"0\":0},\"safety_num\":{\"0\":1}}"
+} - Car evaluation model  
+
+{
+ "payload": [0.0090156 , -0.04464164, -0.01267283, 0.0287581 , -0.01808039, -0.00507166, -0.04708248, 0.03430886, 0.02337484, -0.0052198]
+} - Xgboost model     
+
+This_Is_A_Project_With_Name_Having_More_Than_30_Characters
+
+1. R Jupyter appears twice in templates
+2. User can still select ubuntu while create template
+3. Jupyterlab, r-jupyterlab logos not visible
+4. Cannot select Python 3.6 and 3.7 as base in create template
+
+FileWithNameContainingMoreThanThirtyCharacters
+FileNameWithNameContainingMoreThanThirtyCharactersFileNameWithNameContainingMoreThanThirtyCharactersFileNameWithNameContainingMoreThanThirtyCharacters
+
+Warning error determining status: rpc error: code = Unknown desc = Error: No such container: a66347a1b018a89f87753cf138ce6492e26067ce60dab97b16b312ab41abd07f
+
+Warning The node was low on resource: ephemeral-storage.
+
+Warning The node was low on resource: ephemeral-storage.
+
+Warning Container runtime did not kill the pod within specified grace period.
+
+Warning Container runtime did not kill the pod within specified grace period.
+
+0 0/5 * * * ?
+0 0 0/1 ? * *
+0 0 18 ? * MON-FRI *
+0 0 18 1/1 * ? *
+
+New@User_123
+
+ThisIsProjectNameWithMoreThanThirtyCharacters
+
+1. Parameters testing
+2. Application testing
+3. Automl
+4. Package installation check
+5. Terminal check
+$..[?(@.repo_type=='Gitlab' && @.repo_name !='Default')].repo_id

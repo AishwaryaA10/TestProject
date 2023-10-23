@@ -1,0 +1,93 @@
+SSH Details
+
+SCB Sandbox - http://mosaic-web-641551315.us-east-1.elb.amazonaws.com/ai/
+
+ssh mosaic@54.226.194.127
+Username: mosaic
+Password: eY#$NUxwqsTwEnQ
+namespace - mosaic-servies
+
+DB Connection - SCB Sandbox - psql --host=database-1.catnchrgoqwp.us-east-1.rds.amazonaws.com --username=postgres
+Password - admin1234
+
+Postgres DB details :-
+
+host=database-1.catnchrgoqwp.us-east-1.rds.amazonaws.com 
+
+username=postgres
+
+Pass – admin1234
+
+DEV - 
+
+ssh test-ai-logistics@3.212.99.7
+!xJ#?8E6Rr
+namespace - test-ai-logistics
+
+QA - 
+
+ssh developer@13.82.16.10
+CgW-HaNm4?qz9W+J
+namesapce - mosaic-services
+
+GA - 
+
+ssh eks_ailogistics@3.219.181.171
+^B>;g9eG)p4YKKXW
+namespace - mosaic-services-ga
+
+Cloud - 
+ssh developer-ai@52.224.50.13
+developer-ai
+namesapce - mosaic-ai
+
+mysql -u maxiq@mosaic-k8s-qa -h mosaic-k8s-qa.mysql.database.azure.com -p QA_mysql_21
+
+https://lntinfotech.sharepoint.com/:x:/s/Mosaic-Tech/Ed8PdLqmlm5EvfZObaAIQREBUmClWJFtKUVKuJpyhBUJqg?e=BrVnxO
+
+NCIIPC Details - 
+http://mosaicpoc.nciipc.local/ai
+
+Dev Cluster: ssh test-ai-logistics@3.212.99.7 Password: !xJ#?8E6Rr
+ssh appadmin@192.168.152.35 / Q/x62mekKk
+
+SSH:
+ssh maxiq@10.50.52.67
+Reset@123
+namespace - mosaic-services
+
+LTI VPn IP - 3.226.144.222
+
+RHEL MySQL Upgrade env
+http://decision-test.lti-mosaic.com/decisions/#/projects
+admin/admin
+
+test-agnitio
+2}qm3^^sCz
+3.212.99.7
+
+FIU Env - http://mosaic-gatekeeper-keycloak.apps.openshift-poc.mru0.p1.openshiftapps.com/ai/projects/
+username/password: admin / admin
+
+FIU backend cred:
+ssh maxiq@54.91.120.244  /  Mosaic@12345
+db: mysql -h 192.168.44.10 -u root -pM@xiq123
+
+SCB Sandbox - http://mosaic-web-641551315.us-east-1.elb.amazonaws.com/ai/projects
+mosaic/mosaic
+
+ssh developer-ro@54.226.194.127
+*TgSA2!&Yw^M
+
+developer-ro
+#Lti@Scb22$#
+
+Evergreening env - ssh maxiq@3.143.148.203
+Password - cMwd6vAcswsZxmje1zJz
+
+98231 84020
+
+http://mosaic-web-641551315.us-east-1.elb.amazonaws.com/diamondpriceregressionsklearn/216197f5-7f50-4fde-b62e-c4d2272d53b4/score
+http://mosaic-web-641551315.us-east-1.elb.amazonaws.com/diamondpriceregressionsklearn/216197f5-7f50-4fde-b62e-c4d2272d53b4/score
+
+
