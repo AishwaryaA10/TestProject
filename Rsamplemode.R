@@ -42,7 +42,7 @@ score <- function(fit, request_path){
   PredictForest <- predict(fit, newdata = stevens)
   return (toJSON(PredictForest))
 }
-library(reticulate)
+#library(reticulate)
 library(devtools)
 library(randomForest)
 library(rjson)
