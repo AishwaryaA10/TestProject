@@ -1,1 +1,1 @@
-import amit
+import amit from amit
