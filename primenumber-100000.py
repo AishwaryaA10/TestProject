@@ -13,4 +13,4 @@ for num in range(lower, upper + 1):
            print(num)
 
 
-import f
+import fosforml
